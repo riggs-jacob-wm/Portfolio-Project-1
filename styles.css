@@ -1,0 +1,28 @@
+#leftHalf {
+    background: url(photos/tea_04_hq_pictures_167438.jpg);
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+}
+#rightHalf {
+    background: url(photos/pour.jpg);
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    height: 100%
+}
+
+div {
+    width: 650px;
+    height: 728px;
+}
+
+#rightText {
+    text-align: right;
+    color: sandybrown;
+}
+
+#leftText {
+    color: limegreen;
+}
